@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kakao.talk.theme.template"
+4    android:versionCode="101"
+5    android:versionName="9.2.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="com.kakao.talk.v2.theme" />
+11-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:6:5-63
+11-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:6:22-60
+12
+13    <queries>
+13-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:8:5-10:15
+14        <package android:name="com.kakao.talk" />
+14-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:9:9-50
+14-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:9:18-47
+15    </queries>
+16
+17    <application
+17-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:12:5-39:19
+18        android:allowBackup="true"
+18-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:13:9-35
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:14:9-43
+20        android:label="@string/app_name" >
+20-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:15:9-41
+21        <meta-data
+21-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:18:9-20:35
+22            android:name="android.max_aspect"
+22-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:19:13-46
+23            android:value="2.1" />
+23-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:20:13-32
+24
+25        <activity
+25-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:22:9-37:20
+26            android:name="com.kakao.talk.theme.apeach.MainActivity"
+26-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:23:13-41
+27            android:excludeFromRecents="true"
+27-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:24:13-46
+28            android:exported="true"
+28-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:25:13-36
+29            android:launchMode="singleTop"
+29-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:26:13-43
+30            android:theme="@style/noAnimTheme" >
+30-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:27:13-47
+31            <intent-filter>
+31-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:29:13-32:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:30:17-69
+32-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:30:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:31:17-77
+34-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:31:27-74
+35            </intent-filter>
+36            <intent-filter>
+36-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:33:13-35:29
+37                <action android:name="com.kakao.talk.theme.action.MAIN" />
+37-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:34:17-75
+37-->/Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/AndroidManifest.xml:34:25-72
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>

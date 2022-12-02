@@ -1,0 +1,10 @@
+com.kakao.talk.theme.apeach-pngs-0 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/build/generated/res/pngs/release
+com.kakao.talk.theme.apeach-resValues-1 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/build/generated/res/resValues/release
+com.kakao.talk.theme.apeach-rs-2 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/build/generated/res/rs/release
+com.kakao.talk.theme.apeach-mergeReleaseResources-3 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.kakao.talk.theme.apeach-mergeReleaseResources-4 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.kakao.talk.theme.apeach-merged_res-5 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/build/intermediates/merged_res/release
+com.kakao.talk.theme.apeach-main-6 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/res
+com.kakao.talk.theme.apeach-main-7 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/theme
+com.kakao.talk.theme.apeach-main-8 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/main/theme-adv
+com.kakao.talk.theme.apeach-release-9 /Users/seungminbaek/Documents/GitHub/kakao_theme_android/src/release/res
